@@ -1,1 +1,0 @@
-print("se ha creado un nevo archivo para sincronizar con GITHUB")
